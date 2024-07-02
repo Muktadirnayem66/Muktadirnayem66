@@ -1,4 +1,4 @@
-## Hi I'm Muktadir Nayem 👋
+## Hi I'm Md Muktadir Nayem 👋
 
 <!--
 **Muktadirnayem66/Muktadirnayem66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
